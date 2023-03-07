@@ -1,3 +1,0 @@
-#gektor
-
-##contacts
