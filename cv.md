@@ -1,2 +1,2 @@
-# gektor jackson
+# gektorjackson
 # discord: gektor1864
